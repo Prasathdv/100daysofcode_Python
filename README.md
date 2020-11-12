@@ -17,3 +17,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Feels good to be back at coding.
 
 **Link to work:** [Tip calculator](https://repl.it/@Prasathdv/tip-calculator-start)
+
+### Day 3: November 12. Thursday
+
+**Today's Progress**: Learned basics of Python if conditions , booleans. Created a sample Treasure game using this concept.
+
+**Thoughts:** Gained confidence by cracking few logics (Love calculator, Leap year).
+
+**Link to work:** [Tip calculator](https://repl.it/@Prasathdv/treasure-island-start#main.py)
