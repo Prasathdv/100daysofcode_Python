@@ -24,4 +24,12 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 
 **Thoughts:** Gained confidence by cracking few logics (Love calculator, Leap year).
 
-**Link to work:** [Tip calculator](https://repl.it/@Prasathdv/treasure-island-start#main.py)
+**Link to work:** [Treasure Island Game](https://repl.it/@Prasathdv/treasure-island-start#main.py)
+
+### Day 4: November 14. Saturday
+
+**Today's Progress**: Learned Randomization and List data type. Created RPS(Rock papers Scissors)game using this logic.
+
+**Thoughts:** Gained confidence by cracking few gamelogics (RPS game and Treasure chest find game).
+
+**Link to work:** [RPS Game](https://repl.it/@Prasathdv/rock-paper-scissors-start#main.py)
