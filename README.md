@@ -1,3 +1,11 @@
+<!-- Adding Badges -->
+
+https://img.shields.io/github/issues/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
+https://img.shields.io/github/forks/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
+https://img.shields.io/github/stars/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
+https://img.shields.io/github/license/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
+https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FPrasathdv%2F100daysofcode_Python?style=flat&logo=appveyor
+
 # 100daysofcode_Python
 
 Python Learning from beginner to Advanced. 100 days of code challenge. 100 projects in 100 days.
