@@ -33,3 +33,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Gained confidence by cracking few gamelogics (RPS game and Treasure chest find game).
 
 **Link to work:** [RPS Game](https://repl.it/@Prasathdv/rock-paper-scissors-start#main.py)
+
+### Day 5: November 15. Sunday
+
+**Today's Progress**: Learned for loop and range. created a random password generator using this logic.
+
+**Thoughts:** Tough day in office!!. Quite a challenging tasks which require lot of rework and logic (Highest number in a given list, password generator)
+
+**Link to work:** [Password Generator](https://repl.it/@Prasathdv/password-generator-start#main.py)
