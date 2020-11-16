@@ -1,10 +1,10 @@
 <!-- Adding Badges -->
 
-https://img.shields.io/github/issues/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
-https://img.shields.io/github/forks/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
-https://img.shields.io/github/stars/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
-https://img.shields.io/github/license/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor
-https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FPrasathdv%2F100daysofcode_Python?style=flat&logo=appveyor
+![](https://img.shields.io/github/issues/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor)
+![](https://img.shields.io/github/forks/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor)
+![](https://img.shields.io/github/stars/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor)
+![](https://img.shields.io/github/license/Prasathdv/100daysofcode_Python?style=flat&logo=appveyor)
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FPrasathdv%2F100daysofcode_Python?style=flat&logo=appveyor)
 
 # 100daysofcode_Python
 
@@ -49,3 +49,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Tough day in office!!. Quite a challenging tasks which require lot of rework and logic (Highest number in a given list, password generator)
 
 **Link to work:** [Password Generator](https://repl.it/@Prasathdv/password-generator-start#main.py)
+
+### Day 6: November 16. Monday
+
+**Today's Progress**: Learned while loop.
+
+**Thoughts:** Another tough day in office!!. Solving huddle race and variable height huddle race was really challenging though it uses simple while and If loop. Final Maze game was really tough to crack.
+
+**Link to work:** [Maze game](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
