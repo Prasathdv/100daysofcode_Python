@@ -57,3 +57,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Another tough day in office!!. Solving huddle race and variable height huddle race was really challenging though it uses simple while and If loop. Final Maze game was really tough to crack.
 
 **Link to work:** [Maze game](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+
+### Day 7: November 16. Monday
+
+**Today's Progress**: Created a Hangman game using loops(for, while), conditions, methods.
+
+**Thoughts:** Game concept was neatlly drafted in a flow chart which helped a lot to structure the code. Learned few new concepts in loops ( using 'not in' , "\_" )
+
+**Link to work:** [Hangman game](https://repl.it/@Prasathdv/Day-7-Hangman-5-Start#main.py)
