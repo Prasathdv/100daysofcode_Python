@@ -65,3 +65,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Game concept was neatlly drafted in a flow chart which helped a lot to structure the code. Learned few new concepts in loops ( using 'not in' , "\_" )
 
 **Link to work:** [Hangman game](https://repl.it/@Prasathdv/Day-7-Hangman-5-Start#main.py)
+
+### Day 8: November 17. Tuesday
+
+**Today's Progress**: Created a Caesar`s Cipher encryptrion module using functions with input and index().
+
+**Thoughts:** This was pretty easy as compared with previous excercise.
+
+**Link to work:** [Caesar`s Cipher Encryption](https://repl.it/@Prasathdv/caesar-cipher-4-start#main.py)
