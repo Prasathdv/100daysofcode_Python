@@ -73,3 +73,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** This was pretty easy as compared with previous excercise.
 
 **Link to work:** [Caesar`s Cipher Encryption](https://repl.it/@Prasathdv/caesar-cipher-4-start#main.py)
+
+### Day 9: November 18. Wednesday
+
+**Today's Progress**: Created Silent Auction game which predicts highest bidder.This uses dictionary and nesting dictionary with lists and dictionary concepts.
+
+**Thoughts:** This was easy stage as compared with previous excercise.
+
+**Link to work:** [Silent Auction](https://repl.it/@Prasathdv/blind-auction-start#main.py)
