@@ -81,3 +81,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** This was easy stage as compared with previous excercise.
 
 **Link to work:** [Silent Auction](https://repl.it/@Prasathdv/blind-auction-start#main.py)
+
+### Day 10: November 19. Thursday
+
+**Today's Progress**: Created Calculator using functions with output and recursion concept.
+
+**Thoughts:** This is also an easier module compared to previous days. Learnt a lot of new finer coding techniques. Still my coding logics are raw and repetitive and needs fine tune.
+
+**Link to work:** [Calculator](https://repl.it/@Prasathdv/calculator-start#main.py)
