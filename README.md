@@ -89,3 +89,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** This is also an easier module compared to previous days. Learnt a lot of new finer coding techniques. Still my coding logics are raw and repetitive and needs fine tune.
 
 **Link to work:** [Calculator](https://repl.it/@Prasathdv/calculator-start#main.py)
+
+### Day 11: November 20. Friday
+
+**Today's Progress**: Created Blackjack game as my first capstone project using all concepts learned so for.
+
+**Thoughts:** With the given hints and flowchart I could able to generate desired output. Learnt few nuances in looping and conditions.
+
+**Link to work:** [Blackjack Game](https://repl.it/@Prasathdv/blackjack-start#main.py)
