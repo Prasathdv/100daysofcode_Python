@@ -97,3 +97,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** With the given hints and flowchart I could able to generate desired output. Learnt few nuances in looping and conditions.
 
 **Link to work:** [Blackjack Game](https://repl.it/@Prasathdv/blackjack-start#main.py)
+
+### Day 12: November 21. Saturday
+
+**Today's Progress**: Created Number guessing game from scratch right from logic setting, flowchart to actual code.
+
+**Thoughts:** Faced challenges in looping and conditions. tried multiple attempts to get right logic.
+
+**Link to work:** [Number Guessing Game](https://repl.it/@Prasathdv/guess-the-number-final#main.py)
