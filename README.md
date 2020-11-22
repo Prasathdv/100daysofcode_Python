@@ -105,3 +105,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Faced challenges in looping and conditions. tried multiple attempts to get right logic.
 
 **Link to work:** [Number Guessing Game](https://repl.it/@Prasathdv/guess-the-number-final#main.py)
+
+### Day 13: November 22. Sunday
+
+**Today's Progress**: Today learnt how to debug codes with bugs.
+
+**Thoughts:** Learnt how to debug code using [debugging tool](http://www.pythontutor.com/).
+
+**Link to work:** [FizzBuzz](https://repl.it/@Prasathdv/day-13-3-exercise-1#main.py)
