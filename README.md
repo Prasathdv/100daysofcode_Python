@@ -113,3 +113,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Learnt how to debug code using [debugging tool](http://www.pythontutor.com/).
 
 **Link to work:** [FizzBuzz](https://repl.it/@Prasathdv/day-13-3-exercise-1#main.py)
+
+### Day 14: November 23. Monday
+
+**Today's Progress**: Today created Higher or Lower games loosely based on [Higher Or Lower Game](http://www.higherlowergame.com/).
+
+**Thoughts:** Learnt how to deconstruct logics to smaller chunks before starting to code. Got struck on game repetability model. Final output is satisfactory as it was close to what i coded.
+
+**Link to work:** [HigherorLower](https://repl.it/@Prasathdv/higher-lower-start#main.py)
