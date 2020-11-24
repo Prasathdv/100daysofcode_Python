@@ -121,3 +121,11 @@ Python Learning from beginner to Advanced. 100 days of code challenge. 100 proje
 **Thoughts:** Learnt how to deconstruct logics to smaller chunks before starting to code. Got struck on game repetability model. Final output is satisfactory as it was close to what i coded.
 
 **Link to work:** [HigherorLower](https://repl.it/@Prasathdv/higher-lower-start#main.py)
+
+### Day 15: November 24. Tuesday
+
+**Today's Progress**: Today created Coffee Machine mimic module.
+
+**Thoughts:** Learnt what not to get repeated in code. I tend to repeat the logic a lot.
+
+**Link to work:** [Coffee Machine](https://repl.it/@Prasathdv/coffee-machine-start#main.py)
